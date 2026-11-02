@@ -1,0 +1,1 @@
+<img src="assets/profile/hero.svg" width="100%" alt="A terminal window for Sebastien Kawada. A spinning ASCII sphere carries the zeros of a random polynomial along its equator. About: Interested in mathematics, multi-omics, machine learning. Elsewhere: kawada@mit.edu · github.com/chreia.">
